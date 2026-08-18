@@ -20,8 +20,8 @@ Java | HTML | CSS | GitHub basics | Web Development fundamentals
 
 📂 **Projects**
 - **Portfolio Website** → My first project built with HTML & CSS  
--
-documenting my coding journey  
+
+-documenting my coding journey  
 - More projects coming soon as I learn Java & web development  
 
 ---
