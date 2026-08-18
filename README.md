@@ -1,7 +1,8 @@
 # Hi there, I'm Amrin 👋
 
 Final year B.Tech student(AI&DS)|Student Programmer|Web Development & Java Learner 💻
--------------------------------------;;;;;;;
+
+---
 
 🌱 **About Me**
 - 🎓 Final year B.Tech student(Artificial intelligence and data science[CSE])  
